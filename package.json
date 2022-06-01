@@ -1,0 +1,23 @@
+{
+  "name": "typescript-base-api",
+  "version": "1.0.0",
+  "description": "Base API for Node and Typescript",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DiegoRoberto10/node-typescript-base-api.git"
+  },
+  "keywords": [
+    "Node",
+    "Typescript"
+  ],
+  "author": "Diego Roberto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoRoberto10/node-typescript-base-api/issues"
+  },
+  "homepage": "https://github.com/DiegoRoberto10/node-typescript-base-api#readme"
+}
